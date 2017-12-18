@@ -1,0 +1,23 @@
+{
+  "name": "img-compress",
+  "version": "1.0.0",
+  "description": "a img upload compress tools and rectified orientation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongyuming/img-compress.git"
+  },
+  "keywords": [
+    "img",
+    "compress"
+  ],
+  "author": "xiongyuming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiongyuming/img-compress/issues"
+  },
+  "homepage": "https://github.com/xiongyuming/img-compress#readme"
+}
